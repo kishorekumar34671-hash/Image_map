@@ -250,6 +250,8 @@ def place5(request):
 ```
 
 # OUTPUT
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/522dd4b0-85a3-437b-9dab-61e30d1f8649" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f02b74e-871e-40e9-83d2-afd82a92b4ca" />
 <img width="1920" height="1129" alt="image" src="https://github.com/user-attachments/assets/47f527d8-caec-4816-8219-7bdbab446672" />
 <img width="1920" height="1098" alt="image" src="https://github.com/user-attachments/assets/92fbc806-53bf-43aa-b8f2-84634c415e85" />
