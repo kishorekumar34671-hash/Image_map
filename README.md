@@ -39,7 +39,7 @@ map.html
 <center>
 {% load static %}
 
-<img src="{% static 'Image_map/WhatsApp Image 2025-10-01 at 14.57.49_b24621cd.jpg' %}" usemap="#image-map">
+<img src="{% static 'image.png' %}" usemap="#image-map">
 
 
 <map name="image-map">
