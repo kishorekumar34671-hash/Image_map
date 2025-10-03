@@ -43,7 +43,7 @@ map.html
 
 
 <map name="image-map">
-    <area target="" alt="anna university" title="anna university" href="/p1/" coords="702,324,539,435" shape="rect">
+    <area target="" alt="annauniversity" title="anna university" href="/p1/" coords="702,324,539,435" shape="rect">
     <area target="" alt="guindy" title="guindy" href="/p2/" coords="478,432,315,514" shape="rect">
     <area target="" alt="siadapet" title="siadapet" href="/p3/" coords="499,141,341,242" shape="rect">
     <area target="" alt="kasi theatre" title="kasi theatre" href="/p4/" coords="187,5,0,109" shape="rect">
