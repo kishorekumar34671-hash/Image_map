@@ -250,7 +250,7 @@ def place5(request):
 ```
 
 # OUTPUT
-![alt text](../myproject/myapp/static/image.png)
+![alt text](image.png)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f02b74e-871e-40e9-83d2-afd82a92b4ca" />
 <img width="1920" height="1129" alt="image" src="https://github.com/user-attachments/assets/47f527d8-caec-4816-8219-7bdbab446672" />
